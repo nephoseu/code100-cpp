@@ -9,7 +9,7 @@ If you need additional information regarding the API you may find it in the rest
 
 Open the terminal and run:
 ```sh
-g++ main.cpp -o main && ./main
+g++ main.cpp -o main -lcurl && ./main
 ```
 
 ## API Base URL
