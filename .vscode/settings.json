@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/workspaces/cpp"
+    "cmake.sourceDirectory": "/workspaces/cpp",
+    "cmake.configureOnOpen": false
 }
